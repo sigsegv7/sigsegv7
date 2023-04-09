@@ -1,4 +1,4 @@
-# Hi there! I'm svr.
+# Hi there! I'm ``sigsegv(7)``.
 
 I am a low level operating systems programmer. I enjoy getting into the internals
 of how a computer works, I also love messing with hardware.

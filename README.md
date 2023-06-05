@@ -9,4 +9,4 @@ I am also open to be friends with anybody who also likes computers.
 
 Discord: ``[~ian] sigsegv(7)#0070``
 
-Email: ``ian@mkall.org``
+Email: ``ian@vegaa.systems``

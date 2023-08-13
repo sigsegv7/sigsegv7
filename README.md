@@ -7,6 +7,6 @@ I am also open to be friends with anybody who also likes computers.
 
 ## Contact
 
-Discord: ``ioapic``
+Discord username: ``ioapic``
 
 Email: ``ian@vegaa.systems``

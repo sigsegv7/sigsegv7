@@ -7,6 +7,6 @@ I am also open to be friends with anybody who also likes computers.
 
 ## Contact
 
-Discord: ``[~ian] sigsegv(7)#0070``
+Discord: ``ioapic``
 
 Email: ``ian@vegaa.systems``

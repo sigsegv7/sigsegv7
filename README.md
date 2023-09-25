@@ -9,4 +9,4 @@ I am also open to be friends with anybody who also likes computers.
 
 Discord username: ``ioapic``
 
-Email: ``emilia@vegaa.systems``
+Email: ``ian@vegaa.systems``

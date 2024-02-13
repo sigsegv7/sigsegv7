@@ -10,3 +10,7 @@ I am also open to be friends with anybody who also likes computers.
 Discord username: ``ioapic``
 
 Email: ``ian@osmora.org``
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigsegv7&layout=compact)]()

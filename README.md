@@ -1,6 +1,6 @@
 # Hi there! I'm ``sigsegv(7)``.
 
-I am a systems programmer. I enjoy getting into the internals
+I am a systems engineer. I enjoy getting into the internals
 of how a computer works, I also love messing with hardware.
 
 I am also open to be friends with anybody who also likes computers.

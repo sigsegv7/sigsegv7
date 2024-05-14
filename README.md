@@ -7,8 +7,6 @@ I am also open to be friends with anybody who also likes computers.
 
 ## Contact
 
-Discord username: ``ioapic``
-
 Email: ``ian@osmora.org``
 
 ## Stats

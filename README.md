@@ -11,4 +11,7 @@ Email: ``ian@osmora.org``
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigsegv7&layout=compact)]()
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigsegv7&layout=compact&theme=gruvbox&langs_count=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sigsegv7&show_icons=true&theme=gruvbox" />
+</div>

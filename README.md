@@ -7,7 +7,7 @@ Ian Moffett <em>&lt;<a href="mailto:ian@osmora.org">ian@osmora.org</a>&gt;</em>
 ## Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigsegv7&layout=compact&theme=gruvbox&langs_count=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigsegv7&layout=compact&theme=gruvbox&langs_count=14" />
 </div>
 
 ## Misc

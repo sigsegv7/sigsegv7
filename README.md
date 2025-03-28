@@ -1,4 +1,4 @@
-# Hi there! I'm ``sigsegv(7)``.
+# Hi there! I'm ``sigsegv(7)`` AKA ``bitr0r``!
 
 I like exploring the inner workings of things.
 

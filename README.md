@@ -12,6 +12,3 @@ I like exploring the inner workings of things.
 
 Navigator of the ocean of revelations.
 <hr>
-
-> *"I may be a leader, but never a ruler."*  
-> — Chloe M.

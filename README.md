@@ -2,8 +2,6 @@
 
 I like exploring the inner workings of things.
 
-## Contact
-Ian Moffett <em>&lt;<a href="mailto:ian@osmora.org">ian@osmora.org</a>&gt;</em>
 ## Stats
 
 <div style="display: flex; justify-content: space-between;">
